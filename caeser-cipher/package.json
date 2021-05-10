@@ -2,7 +2,7 @@
   "name": "caesar-cipher-cli-tool",
   "version": "1.0.0",
   "description": "",
-  "main": "bin/index.js",
+  "main": "caeser-cipher/index.js",
   "bin": {
     "caesar-cipher-cli-tool": "index.js"
   },
